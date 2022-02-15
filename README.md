@@ -17,7 +17,7 @@ I'm a Front-End developer and Ethical Scripter from the INDIA!
 
 ## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)
 
 ## :earth_asia: About Me
 
