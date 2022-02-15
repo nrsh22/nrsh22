@@ -1,4 +1,4 @@
-# Hi, I'm Naresh Kumar (:coffee::computer::Music::heart:)
+# Hi, I'm Naresh Kumar (:trollface::computer::minidisc::unlock:)
 
 I'm a Front-End developer and cybersecurity seeker from the INDIA!
 
