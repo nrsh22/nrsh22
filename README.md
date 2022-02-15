@@ -3,6 +3,7 @@
 I'm a Front-End developer and Ethical Scripter from the INDIA!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-369235166/) 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFb44F9MdVCbQC7pCK21rzQ) 
+[![Instagram](https://img.shields.io/badge/instagram-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/nrsh.x)
 
 
 - 👨‍🎓: Currently Student at SRMIST.
