@@ -2,10 +2,6 @@
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFb44F9MdVCbQC7pCK21rzQ) 
 [![Instagram](https://img.shields.io/badge/instagram-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/__nrsh._/)
 
-## :wrench: Technologies
-
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)
-
 ## :earth_asia: About Me
 
 <h1 align="center">Hi 👋, I'm Naresh</h1>
