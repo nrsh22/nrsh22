@@ -25,6 +25,17 @@ I'm a Front-End developer and Ethical Scripter from the INDIA!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrsh22&label=Profile%20views&color=0e75b6&style=flat" alt="nrsh22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrsh22" alt="nrsh22" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naresh-kumar-369235166/) 
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFb44F9MdVCbQC7pCK21rzQ) 
+[![Instagram](https://img.shields.io/badge/instagram-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/__nrsh._/)
+
+
+- 👨‍🎓: Currently Student at SRMIST.
+- ✍️: Learning the latest technologies & 💻languages .
+- 🗞️: Looking for new Projects.
+- 🖥️ Code lover, turning the Internet a Safer-place!
+- 🏆: 2022 Goals: Contribute and publish more open source projects.
+- 🎯: Wasting my time to save other people's time.
 
 - 🌱 I’m currently learning **Back-End Tools**
 
