@@ -2,8 +2,6 @@
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFb44F9MdVCbQC7pCK21rzQ) 
 [![Instagram](https://img.shields.io/badge/instagram-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.instagram.com/__nrsh._/)
 
-## :earth_asia: About Me
-
 <h1 align="center">Hi 👋, I'm Naresh</h1>
 <h3 align="center">A passionate frontend developer and Ethical Hacker from India.</h3>
 
